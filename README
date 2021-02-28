@@ -1,0 +1,6 @@
+# Nitu Nicolae-Iulian 
+
+I wrote a parallel program that calculates the Julia and Mandelbrot sets for a 
+complex polynomial function of the form f (z) = z and displays them as grayscale images.
+I wrote it in C using PThreads.
+
